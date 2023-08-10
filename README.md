@@ -1,7 +1,6 @@
 ## Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Iury Gomes de Oliveira, professor no Instituto Federal do Tocantins - IFTO. Desenvolvedor com perfil Full Stack, Bacharelado em Ciência da Computação, Pós-graduação em Gestão de TI, Mestrando em Ciência da Computação na UFBA na linha de Ciência de dados. Seguidor de Cristo, Marido da Lívia, Pai da Talita e da Helena. Meu currículo lattes: [http://lattes.cnpq.br/2420713258894058](http://lattes.cnpq.br/2420713258894058)
-
+   Meu nome é Isabella Nicoly Brito e Silva,sou aluna do Instituto Federal do Tocantins - IFTO (Campus Araguína). Tenho 16 anos, minha mãe se chama Nélida e meu pai Emilson. Nas horars vagas eu amo dormir (se eu pudesse eu dormiria o dia todo) , gosto de ler , e quando estou com um tempinho livre costumo esvrever . Costumo expressar o que eu sinto, principalmente para as pessoas que amo . Pretendo fazer faculdade de direito, porém não tenho certeza ainda.  
 ## Linguagens e Tecnologias:
 
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
