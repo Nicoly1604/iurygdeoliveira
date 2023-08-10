@@ -1,6 +1,6 @@
 ## Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-   Meu nome é Isabella Nicoly Brito e Silva,sou aluna do Instituto Federal do Tocantins - IFTO (Campus Araguína). Tenho 16 anos, minha mãe se chama Nélida e meu pai Emilson. Nas horars vagas eu amo dormir (se eu pudesse eu dormiria o dia todo) , gosto de ler , e quando estou com um tempinho livre costumo esvrever . Costumo expressar o que eu sinto, principalmente para as pessoas que amo . Pretendo fazer faculdade de direito, porém não tenho certeza ainda.  
+   Oii, eu me  Isabella Nicoly Brito e Silva,sou aluna do Instituto Federal do Tocantins - IFTO (Campus Araguína). Tenho 16 anos, minha mãe se chama Nélida e meu pai Emilson. Nas horars vagas eu amo dormir (se eu pudesse eu dormiria o dia todo) , gosto de ler , e quando estou com um tempinho livre costumo esvrever . Costumo expressar o que eu sinto, principalmente para as pessoas que amo . Pretendo fazer faculdade de direito, porém não tenho certeza ainda.  
 ## Linguagens e Tecnologias:
 
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
@@ -15,6 +15,21 @@
 <img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git" />
 <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+
+
 
 ## Minhas redes:
 <ul>
