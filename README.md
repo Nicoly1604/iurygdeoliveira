@@ -1,6 +1,7 @@
-## Olá pessoal, sejam bem vindos ao meu GitHub 👋
+-> Olá pessoas, sejam bem vindos ao meu GitHub!! 👋
 
-   Oii, eu me  Isabella Nicoly Brito e Silva,sou aluna do Instituto Federal do Tocantins - IFTO (Campus Araguína). Tenho 16 anos, minha mãe se chama Nélida e meu pai Emilson. Nas horars vagas eu amo dormir (se eu pudesse eu dormiria o dia todo) , gosto de ler , e quando estou com um tempinho livre costumo esvrever . Costumo expressar o que eu sinto, principalmente para as pessoas que amo . Pretendo fazer faculdade de direito, porém não tenho certeza ainda.  
+   Oii, eu me chamo Isabella Nicoly Brito e Silva,sou aluna do Instituto Federal do Tocantins - IFTO (Campus Araguína). Tenho 16 anos, minha mãe se chama Nélida e meu pai Emilson. Nas horars vagas eu amo dormir (se eu pudesse eu dormiria o dia todo) , gosto de ler , e quando estou com um tempinho livre costumo esvrever . Pretendo fazer faculdade de direito, porém não tenho certeza ainda. Vivo em um estresse sem fim KKKK , qualquer coisinha eu estou surtando ou chorando. Eu sou péssima em me auto-descrever, mas creio que por meio dessa pequena exposição feita de mim por mim mesma vocês saberão melhor quem é a Isa.
+   
 ## Linguagens e Tecnologias:
 
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
