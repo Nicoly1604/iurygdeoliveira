@@ -30,8 +30,7 @@ https://tiktok.com/@isabellanicoly_
 https://instagram.com/isabellanicoly__?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D 
 
 
-## Minhas estatísticas
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iurygdeoliveira&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurygdeoliveira&show_icons=true)
+
 
 ## Visualizações
 <p>
