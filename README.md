@@ -25,7 +25,7 @@ A brief description of what this project does and who it's for
 
 ## -> Minhas redes:
 
-tiktok.com/@isabellanicoly_
+https://tiktok.com/@isabellanicoly_
 https://instagram.com/isabellanicoly__?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D 
 
 
